@@ -65,3 +65,6 @@ util/Win_Check_Output.txt
 secrets.tar
 id_rsa_*
 /.vs
+
+# secrets
+keyboards/ergodox_ez/keymaps/trevor_emacs/macros.h
